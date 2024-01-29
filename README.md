@@ -24,14 +24,3 @@ I'm a successful backend programmer who spends a lot of time crafting code. My a
 
 ### Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavolacerda/)
-
-
-
-
-
-
-
- 
