@@ -1,8 +1,3 @@
-# Hi there! 👋 I'm Gustavo Lacerda 🎸
-
-## About Me
-I'm a backend programmer who spends a lot of time crafting code. My actually focus is on Python and data structures.
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolace&layout=compact)
 
 ## Tech Stack
